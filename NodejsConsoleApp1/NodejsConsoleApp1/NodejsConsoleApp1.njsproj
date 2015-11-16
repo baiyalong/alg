@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ade0b4b7-bbe7-48bd-b834-17f0caaccc21</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>x^n.js</StartupFile>
+    <StartupFile>fibonacci.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -32,6 +32,7 @@
   <ItemGroup>
     <Compile Include="app.js" />
     <Compile Include="binarySearch.js" />
+    <Compile Include="fibonacci.js" />
     <Compile Include="insertionSort.js" />
     <Compile Include="mergeSort.js" />
     <Compile Include="testArray.js" />
