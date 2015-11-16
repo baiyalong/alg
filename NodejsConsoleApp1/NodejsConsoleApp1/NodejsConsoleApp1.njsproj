@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ade0b4b7-bbe7-48bd-b834-17f0caaccc21</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>binarySearch.js</StartupFile>
+    <StartupFile>x^n.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -35,6 +35,7 @@
     <Compile Include="insertionSort.js" />
     <Compile Include="mergeSort.js" />
     <Compile Include="testArray.js" />
+    <Compile Include="x^n.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
